@@ -31,7 +31,7 @@ Final graph:
 git log --oneline --graph --all
 
 ## screenshots
-Add screenshots to README
-![Screenshot](screenshots/Screenshot 2025-11-24 at 15.52.17 (1).png)
+### Phase 1
+![Phase 1 Init](screenshots/Screenshot 2025-11-24 at 15.52.17 (1).png)
 
 
